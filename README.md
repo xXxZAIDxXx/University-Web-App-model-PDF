@@ -3,4 +3,4 @@
 ## First Stage Design Model/Sketch
 
 
-<code> <i>Project created with/i> <b>balsamiq.cloud</b> </code>
+<code> <i>Project created with</i> <b>balsamiq.cloud</b> </code>
