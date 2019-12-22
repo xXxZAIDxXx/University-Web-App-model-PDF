@@ -2,5 +2,6 @@
 >>>
 ## First Stage Design Model/Sketch
 
->
-* Project created with balsamiq.cloud
+---
+
+<code> <i>Project created with/i> <b>balsamiq.cloud</b> </code>
